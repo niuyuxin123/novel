@@ -3,3 +3,7 @@
 - [连城诀](novel2.md)
 - [天龙八部](novel3.md)
 - [射雕英雄传](novel4.md)
+- [书剑恩仇录](novel5.md)
+- [碧血剑](novel6.md)
+- [神雕侠侣](novel7.md)
+- [飞狐外传](novel8.md)
